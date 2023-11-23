@@ -1,7 +1,4 @@
-# Analyzing-a-real-world-data-set-with-SQL-and-Python
-
-
-Working with a real world data-set using SQL and Python
+# Working with a real world data-set using SQL and Python
 
 ## Objectives
 
